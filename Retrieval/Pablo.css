@@ -1,0 +1,107 @@
+.welcome{
+    color: rgb(5, 146, 5);
+    align-content: center;
+    height: 20px;
+    line-height: 70px;
+    font-size: 30px;
+    margin-left: 200px;
+    background-color: rgb(104, 243, 104);
+    color: white;
+    width: 400px;
+    
+}
+.remotask{
+    display: flex; flex-direction: row;
+    flex: 1;
+}
+.remotask-retrieval{
+    height: 400px;
+}
+.remotask-off{
+    height: 400px;
+}
+.Retrieval-items{
+    font-style: italic;
+    line-height: 20px;
+    
+}
+.paypal{
+    display: flex;flex-direction: row;
+    color: rgb(3, 71, 94);
+    align-content: center;
+    font-size: large;
+    font-weight: bold;
+    background-color:lightgreen;
+    width: 500px;
+    justify-content: center;
+    margin-left: 200px;
+    margin-bottom: 70px;
+}
+.paypal123{
+    height: 50px;
+    width: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.visa123{
+    height: 50px;
+    width: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+
+}
+.display{
+    display: flex; flex-direction: row;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    
+    
+}
+.remotask-registration{
+    width: 500px;
+}
+.reg-after{
+    margin-left: 200px;
+}
+.reg-before{
+    margin-right: 200px;
+}
+.search{
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: blue;
+    font-size: 17px;
+    cursor: pointer;
+}
+.icon{
+    display: flex; flex-direction: row;
+    width: 800px;
+    line-height: 30px;
+    margin-top: 70px;
+    margin-bottom: 150px;
+}
+.continue{
+    margin-left: 70px;
+    width: 150px;
+    line-height: 40px;
+    background-color: rgb(47, 245, 47);
+    color: white;
+    border-radius: 15px;
+    border-color: rgb(47, 245, 47);
+    cursor: pointer;
+    transition: 0.20s;
+}
+.continue123{
+    color: white;
+    height: 15px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.continue:hover{
+    background-color: lightgreen;
+}
