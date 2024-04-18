@@ -1,14 +1,21 @@
 .welcome{
     color: rgb(5, 146, 5);
     align-content: center;
-    height: 20px;
+    height: 40px;
     line-height: 70px;
     font-size: 30px;
-    margin-left: 200px;
+    margin-left: 30%;
     background-color: rgb(104, 243, 104);
     color: white;
-    width: 400px;
+    width: 50%;
+    border-radius: 15px;
+    text-align: center;
     
+}
+.Best-icon{
+    display: flex;flex-direction: column;
+    flex: 1;
+
 }
 .remotask{
     display: flex; flex-direction: row;
@@ -27,12 +34,12 @@
 }
 .paypal{
     display: flex;flex-direction: row;
-    color: rgb(3, 71, 94);
+    color: rgb(3, 71, 94, 1);
     align-content: center;
-    font-size: large;
+    font-size:x-large;
     font-weight: bold;
-    background-color:lightgreen;
-    width: 500px;
+    background-color:rgb(69, 241, 69);
+    width: 600px;
     justify-content: center;
     margin-left: 200px;
     margin-bottom: 70px;
@@ -56,6 +63,7 @@
     background-color: green;
     color: white;
     border-radius: 10px;
+    width: 100%;
     
     
 }
@@ -67,11 +75,12 @@
 }
 .reg-before{
     margin-right: 200px;
+    
 }
 .search{
     margin-left: 400px;
     margin-top: 50px;
-    width: 300px;
+    width: 400px;
     height: 50px;
     border-radius: 15px;
     border-color: blue;
@@ -89,12 +98,12 @@
     margin-left: 70px;
     width: 150px;
     line-height: 40px;
-    background-color: rgb(47, 245, 47);
+    background-color: rgb(6, 184, 6);
     color: white;
     border-radius: 15px;
-    border-color: rgb(47, 245, 47);
+    border-color: rgb(5, 182, 5);
     cursor: pointer;
-    transition: 0.20s;
+    transition: 0.35s;
 }
 .continue123{
     color: white;
@@ -103,5 +112,5 @@
     font-size: 28px;
 }
 .continue:hover{
-    background-color: lightgreen;
+    background-color: rgb(28, 236, 28);
 }
